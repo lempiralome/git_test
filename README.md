@@ -1,0 +1,1 @@
+This is Lempira's first git project!
